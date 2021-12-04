@@ -5,8 +5,6 @@
 
 /deep_speech_eng/venv/
 /deep_speech_eng/.idea/
-/deep_speech_eng/models/deepspeech-0.9.3-models.pbmm
-/deep_speech_eng/models/deepspeech-0.9.3-models.scorer
 
 /deep_speech_rus/venv/
 /deep_speech_rus/.idea/
