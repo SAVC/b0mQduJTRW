@@ -11,3 +11,18 @@
 
 /deep_pavlov/venv/
 /deep_pavlov/.idea/
+
+
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-language_model/alphabet.txt
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-checkpoint_dir/checkpoint
+/deep_speech_eng/models/deepspeech-0.9.3-models.pbmm
+/deep_speech_eng/models/deepspeech-0.9.3-models.scorer
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-checkpoint_dir.tar.gz
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-language_model.tar.gz
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-tensorflow_pb_models.tar.gz
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-language_model/lm.binary
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-checkpoint_dir/model.ckpt-126656.data-00000-of-00001
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-checkpoint_dir/model.ckpt-126656.index
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-checkpoint_dir/model.ckpt-126656.meta
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-tensorflow_pb_models/output_graph.pb
+/deep_speech_rus/models/DeepSpeech-ru-v1.0-language_model/trie
